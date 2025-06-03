@@ -1,4 +1,4 @@
-# DUNGEON GAR
+# DUNGEON 
 
 
 Esse é um projeto avaliativo para os alunos do primeiro semestre de Engenharia De Computação do CESUPA 2025, no qual deve se desenvolver um jogo em C que contenha 3 mapas interativos:
