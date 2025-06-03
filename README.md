@@ -28,6 +28,28 @@ Neste jogo de aventura estilo puzzle, o jogador assume o papel de um explorador 
 - Fases 1, 2 e 3.
 - Tela de Vitória.
 - Tela de Derrota.
+  
+## 🛑CONDIÇÕES DE VITÓTIA OU DERROTA
+🎉VITORIA:
+- Ocorre quando o jogador termina a fase 3(mapa 3) com exelencia, pegando a chave,abrindo a porta.
+- Leva o jogador para a tela de vitória, que o parabeniza e retorna para a tela inicial.
+
+💀DERROTA:
+- Ocorre em qualquer mapa do jogo, se:
+- o jogador tocar nos espinhos 3 vzs
+- se o jogador for atingido por um monstro
+- Leva o jogador para a tela de derrota,retornando ao menu.
+
+## ⌨️ CONTROLE DE TECLADO
+- W: pra cima
+- S: pra direita,coletar itens
+- A : mover pra esquerda
+- D:Mover para a Direita
+- I: interagir com chaves e botões
+- esse controle é fundamental para que o jogador consiga navegar pelos mapas e avançar pra proxima fase.
+
+
+
 
 ## 👨‍💻 CRIADORES DO JOGO
 
